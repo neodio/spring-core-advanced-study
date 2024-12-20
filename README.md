@@ -8,8 +8,8 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%
 
 # 환경
 - java 17
-- Gradle 8.8
-- Spring boot 3.3.2
+- Gradle 8.10
+- Spring boot 3.3.5
 
 # 구동
 local: http://localhost:8080
